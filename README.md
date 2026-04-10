@@ -15,5 +15,6 @@ The official FIRST driving simulator, updated yearly with each game for both FTC
 
 ## [Catalyst 2013](https://archive.org/details/catalyst-2013)
 *"The FIRST Robotics Competition game simulation for the FRC 2013 game, Ultimate Ascent! Customize your robot, setup an alliance, and play matches to prepare for your competition season. Then, play the game in the off season to recruit for new team members or just as a break between building your real robots."*
+
 <br>**Note from the Archivist: "Please note: It seems that the game tries to connect to a now-defunct sever to validate the game and preventing it to run, but disabling any network connections or running the game directly from the application manifest in the folder will allow it to run normally. However, I'm not too sure if the game even runs correctly as it requires 6 players in order to play...."**</br>
-<br>![Catalyst 2013 title screen](https://archive.org/download/catalyst-2013/frc.png)
+<br>![Catalyst 2013 title screen](https://archive.org/download/catalyst-2013/frc.png)</br>
